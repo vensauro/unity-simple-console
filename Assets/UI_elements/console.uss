@@ -1,0 +1,13 @@
+.button-div {
+  flex-grow: 0;
+  background-color: rgb(255, 0, 165);
+  color: rgb(255, 255, 255);
+  margin-left: 4px;
+  margin-right: 4px;
+  padding-left: 6px;
+  padding-right: 6px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  align-items: center;
+  justify-content: center;
+}
